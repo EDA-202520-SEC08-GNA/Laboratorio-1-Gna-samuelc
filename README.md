@@ -3,6 +3,7 @@
 # Laboratorio 1:
 
 <!-- PROJECT SHIELDS -->
+Samuel Casallas - s.casallas1@uniandes.edu.co - 202220537
 
 [![Contributors][laboratorio-1-contributors-shield]][laboratorio-1-contributors-url]
 [![Forks][laboratorio-1-forks-shield]][laboratorio-1-forks-url]
